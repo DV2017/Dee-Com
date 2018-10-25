@@ -1,0 +1,12 @@
+GO DADDY
+username: dvarma24
+password: carton1900gd
+
+cPanel
+username: jzxffyjdn9mb
+password: carton&gd
+
+DATABASE
+dv_ecom_db
+username: dvarma
+password: eT7)sgQe%~rm

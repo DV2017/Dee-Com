@@ -1,0 +1,9 @@
+.caption {
+    height: 160px;
+}
+
+.thumbnail>img, .thumbnail a>img.image_50{
+    max-height: 100px;
+    object-position: center;
+    object-fit: cover;
+}
